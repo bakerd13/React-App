@@ -1576,7 +1576,7 @@ iframe#mpiIframe {
   top: 15px;
   font-size: 10px;
   padding: 25px 0px 0px 95px;
-  background: url(../images/logo-next-footer.gif) left bottom no-repeat;
+  background: url(../images/logo-dabtechs-footer.gif) left bottom no-repeat;
 }
 #foot ul li {
   margin-left: 10px;
@@ -2093,7 +2093,7 @@ iframe#mpiIframe {
   .responsive #salebagwarningbutton .dabtechsweb-button.black {
     margin-bottom: 15px;
   }
-  .responsive .nextBtn {
+  .responsive .salesBtn {
     display: inline-block;
     background: #111;
     background: linear-gradient(#444444, #111111);
@@ -2102,12 +2102,12 @@ iframe#mpiIframe {
     position: relative;
     float: right;
   }
-  .responsive .nextBtn.disabled {
+  .responsive .salesBtn.disabled {
     background: white;
     color: #ccc;
     border: 1px solid #ccc;
   }
-  .responsive .nextBtn.disabled .nxtArrow {
+  .responsive .salesBtn.disabled .nxtArrow {
     background-position: -67px 1px;
     opacity: 0.3;
   }

@@ -1,6 +1,5 @@
 import styled from "styled-components";
 import {Grid} from "@material-ui/core";
-import {breakpoints} from "@next/themes";
 
 const ResultsGrid = styled(Grid)`
     padding: 0 1.5rem 0 1.5rem;
